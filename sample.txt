@@ -1,0 +1,4 @@
+Name|Marks
+Ram|95
+Hari|68
+Peter|85
